@@ -1,0 +1,6 @@
+Run:
+    python3 file_name.py dataset_name.dat min_support
+   
+Example:
+    python3 apriori.py mushroom.dat 50
+    python3 fp_growth.py mushroom.dat 40
