@@ -1,0 +1,6 @@
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22

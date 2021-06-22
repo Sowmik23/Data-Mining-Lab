@@ -1,0 +1,55 @@
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22
+              precision    recall  f1-score   support
+
+           p       1.00      1.00      1.00       421
+           e       1.00      1.00      1.00       394
+
+    accuracy                           1.00       815
+   macro avg       1.00      1.00      1.00       815
+weighted avg       1.00      1.00      1.00       815
+
+
+++++++++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++++++++++++++
+
+
+Dataset Summary: breast-cancer.data
+Dataset Size: 286
+Number of Attributes: 9
+Dataset Summary: breast-cancer.data
+Dataset Size: 286
+Number of Attributes: 9
+Dataset Summary: breast-cancer.data
+Dataset Size: 286
+Number of Attributes: 9
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22
+              precision    recall  f1-score   support
+
+           p       1.00      1.00      1.00       439
+           e       1.00      1.00      1.00       376
+
+    accuracy                           1.00       815
+   macro avg       1.00      1.00      1.00       815
+weighted avg       1.00      1.00      1.00       815
+
+
++++++++++++++++++++++++++++++++++++++@+++++++++++++++++++++++++++++++++++++++
+
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22
+              precision    recall  f1-score   support
+
+           e       1.00      1.00      1.00       419
+           p       1.00      1.00      1.00       396
+
+    accuracy                           1.00       815
+   macro avg       1.00      1.00      1.00       815
+weighted avg       1.00      1.00      1.00       815
+
+
++++++++++++++++++++++++++++++++++++++@+++++++++++++++++++++++++++++++++++++++
+

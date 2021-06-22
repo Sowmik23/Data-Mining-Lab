@@ -1,0 +1,48 @@
+Dataset Summary: /home/sowmik/Year-04_Semester-02/Data-Mining-Lab/LabWork02(Classification)/Dataset/Adult/adult.data
+              precision    recall  f1-score   support
+
+       <=50K       0.94      0.79      0.86      4944
+        >50K       0.56      0.84      0.68      1568
+
+    accuracy                           0.81      6512
+   macro avg       0.75      0.82      0.77      6512
+weighted avg       0.85      0.81      0.82      6512
+Dataset Summary: /home/sowmik/Year-04_Semester-02/Data-Mining-Lab/LabWork02(Classification)/Dataset/Adult/adult.data
+Dataset Size: Dataset Summary: /home/sowmik/Year-04_Semester-02/Data-Mining-Lab/LabWork02(Classification)/Dataset/Adult/adult.data
+Dataset Size: Dataset Summary: /home/sowmik/Year-04_Semester-02/Data-Mining-Lab/LabWork02(Classification)/Dataset/Adult/adult.data
+Dataset Size: 32561
+Number of Attributes: 14
+              precision    recall  f1-score   support
+
+       <=50K       0.95      0.79      0.86      4944
+        >50K       0.57      0.87      0.69      1568
+
+    accuracy                           0.81      6512
+   macro avg       0.76      0.83      0.78      6512
+weighted avg       0.86      0.81      0.82      6512
+Dataset Summary: /home/sowmik/Year-04_Semester-02/Data-Mining-Lab/LabWork02(Classification)/Dataset/Adult/adult.data
+Dataset Size: 32561
+Number of Attributes: 14
+              precision    recall  f1-score   support
+
+       <=50K       0.94      0.78      0.86      4944
+        >50K       0.56      0.85      0.67      1568
+
+    accuracy                           0.80      6512
+   macro avg       0.75      0.82      0.77      6512
+weighted avg       0.85      0.80      0.81      6512
+Dataset Summary: /home/sowmik/Year-04_Semester-02/Data-Mining-Lab/LabWork02(Classification)/Dataset/Adult/adult.data
+Dataset Size: 32561
+Number of Attributes: 14
+              precision    recall  f1-score   support
+
+       <=50K       0.95      0.79      0.86      4944
+        >50K       0.57      0.86      0.68      1568
+
+    accuracy                           0.81      6512
+   macro avg       0.76      0.83      0.77      6512
+weighted avg       0.86      0.81      0.82      6512
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+

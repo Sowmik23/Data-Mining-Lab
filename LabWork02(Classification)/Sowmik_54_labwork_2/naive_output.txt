@@ -1,0 +1,284 @@
+Dataset Summary: adult.data
+Dataset Size: 32561
+Number of Attributes: 14
+              precision    recall  f1-score   support
+
+       <=50K       0.95      0.80      0.87      4944
+        >50K       0.58      0.87      0.70      1568
+
+    accuracy                           0.82      6512
+   macro avg       0.77      0.84      0.78      6512
+weighted avg       0.86      0.82      0.83      6512
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+Dataset Summary: connect-4.data
+Dataset Size: 67557
+Number of Attributes: 42
+              precision    recall  f1-score   support
+
+        draw       0.26      0.07      0.12      1290
+        loss       0.70      0.41      0.52      3327
+         win       0.74      0.93      0.83      8894
+
+    accuracy                           0.72     13511
+   macro avg       0.57      0.47      0.49     13511
+weighted avg       0.68      0.72      0.68     13511
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+Dataset Summary: iris.data
+Dataset Size: 150
+Number of Attributes: 4
+                 precision    recall  f1-score   support
+
+    Iris-setosa       0.91      1.00      0.95        10
+Iris-versicolor       0.73      0.80      0.76        10
+ Iris-virginica       0.88      0.70      0.78        10
+
+       accuracy                           0.83        30
+      macro avg       0.84      0.83      0.83        30
+   weighted avg       0.84      0.83      0.83        30
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+
+Dataset Summary: breast-cancer.data
+Dataset Size: 286
+Number of Attributes: 9
+                      precision    recall  f1-score   support
+
+no-recurrence-events       0.78      0.80      0.79        40
+   recurrence-events       0.50      0.47      0.48        17
+
+            accuracy                           0.70        57
+           macro avg       0.64      0.64      0.64        57
+        weighted avg       0.70      0.70      0.70        57
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+Dataset Summary: krkopt.data
+Dataset Size: 28056
+Number of Attributes: 6
+              precision    recall  f1-score   support
+
+        draw       0.14      0.08      0.10       559
+       eight       0.36      0.55      0.44       287
+      eleven       0.27      0.20      0.23       571
+     fifteen       0.47      0.45      0.46       433
+        five       0.48      0.46      0.47        94
+        four       0.62      0.40      0.48        40
+    fourteen       0.44      0.69      0.54       911
+        nine       0.37      0.20      0.26       342
+         one       0.56      0.31      0.40        16
+       seven       0.16      0.03      0.05       137
+         six       0.28      0.14      0.18       118
+     sixteen       0.61      0.44      0.51        78
+         ten       0.24      0.07      0.11       397
+    thirteen       0.37      0.53      0.43       839
+       three       0.33      0.25      0.29        16
+      twelve       0.32      0.34      0.33       719
+         two       0.54      0.55      0.55        49
+        zero       0.25      0.20      0.22         5
+
+    accuracy                           0.37      5611
+   macro avg       0.38      0.33      0.34      5611
+weighted avg       0.34      0.37      0.34      5611
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+
+Dataset Summary: kr-vs-kp.data
+Dataset Size: 3196
+Number of Attributes: 36
+              precision    recall  f1-score   support
+
+       nowin       0.89      0.85      0.87       306
+         won       0.87      0.91      0.89       333
+
+    accuracy                           0.88       639
+   macro avg       0.88      0.88      0.88       639
+weighted avg       0.88      0.88      0.88       639
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+Dataset Summary: breast-cancer-wisconsin.data
+Dataset Size: 699
+Number of Attributes: 10
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22
+              precision    recall  f1-score   support
+
+           d       0.98      0.62      0.76       630
+           g       0.89      0.52      0.66       430
+           l       0.41      0.95      0.57       166
+           m       0.48      1.00      0.64        58
+           p       0.34      0.43      0.38       229
+           u       0.55      1.00      0.71        73
+           w       1.00      1.00      1.00        38
+
+    accuracy                           0.64      1624
+   macro avg       0.66      0.79      0.67      1624
+weighted avg       0.77      0.64      0.66      1624
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22
+              precision    recall  f1-score   support
+
+           d       0.99      0.65      0.79       630
+           g       0.88      0.57      0.69       430
+           l       0.42      0.92      0.58       166
+           m       0.49      1.00      0.66        58
+           p       0.32      0.39      0.35       229
+           u       0.55      1.00      0.71        73
+           w       1.00      1.00      1.00        38
+
+    accuracy                           0.66      1624
+   macro avg       0.67      0.79      0.68      1624
+weighted avg       0.77      0.66      0.67      1624
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22
+              precision    recall  f1-score   support
+
+           d       0.99      0.62      0.76       630
+           g       0.86      0.53      0.66       430
+           l       0.40      0.93      0.56       166
+           m       0.45      1.00      0.62        58
+           p       0.34      0.42      0.38       229
+           u       0.54      0.99      0.70        73
+           w       1.00      1.00      1.00        38
+
+    accuracy                           0.64      1624
+   macro avg       0.66      0.78      0.67      1624
+weighted avg       0.77      0.64      0.66      1624
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22
+              precision    recall  f1-score   support
+
+           d       0.99      0.62      0.76       630
+           g       0.85      0.54      0.66       430
+           l       0.39      0.89      0.54       166
+           m       0.50      1.00      0.67        58
+           p       0.32      0.40      0.35       229
+           u       0.54      1.00      0.70        73
+           w       1.00      1.00      1.00        38
+
+    accuracy                           0.63      1624
+   macro avg       0.65      0.78      0.67      1624
+weighted avg       0.76      0.63      0.65      1624
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+Dataset Summary: krkopt.data
+Dataset Size: 28056
+Number of Attributes: 6
+              precision    recall  f1-score   support
+
+        draw       0.15      0.08      0.10       559
+       eight       0.35      0.50      0.42       287
+      eleven       0.24      0.18      0.20       571
+     fifteen       0.49      0.44      0.46       433
+        five       0.50      0.54      0.52        94
+        four       0.42      0.20      0.27        40
+    fourteen       0.43      0.70      0.53       911
+        nine       0.33      0.20      0.25       342
+         one       0.29      0.12      0.17        16
+       seven       0.16      0.03      0.05       137
+         six       0.38      0.18      0.24       118
+     sixteen       0.58      0.40      0.47        78
+         ten       0.20      0.06      0.09       397
+    thirteen       0.35      0.49      0.41       839
+       three       0.29      0.12      0.17        16
+      twelve       0.30      0.34      0.32       719
+         two       0.56      0.63      0.60        49
+        zero       0.00      0.00      0.00         5
+
+    accuracy                           0.36      5611
+   macro avg       0.33      0.29      0.29      5611
+weighted avg       0.33      0.36      0.33      5611
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22
+              precision    recall  f1-score   support
+
+           d       0.98      0.64      0.77       630
+           g       0.87      0.55      0.68       430
+           l       0.38      0.89      0.53       166
+           m       0.48      1.00      0.64        58
+           p       0.32      0.38      0.35       229
+           u       0.57      1.00      0.73        73
+           w       1.00      1.00      1.00        38
+
+    accuracy                           0.64      1624
+   macro avg       0.66      0.78      0.67      1624
+weighted avg       0.76      0.64      0.66      1624
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22
+              precision    recall  f1-score   support
+
+           d       0.98      0.63      0.77       630
+           g       0.89      0.55      0.68       430
+           l       0.39      0.93      0.55       166
+           m       0.45      0.98      0.61        58
+           p       0.35      0.38      0.37       229
+           u       0.52      1.00      0.68        73
+           w       1.00      1.00      1.00        38
+
+    accuracy                           0.64      1624
+   macro avg       0.65      0.78      0.67      1624
+weighted avg       0.77      0.64      0.66      1624
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+
+Dataset Summary: agaricus-lepiota.data
+Dataset Size: 8124
+Number of Attributes: 22
+              precision    recall  f1-score   support
+
+           d       0.98      0.62      0.76       630
+           g       0.87      0.52      0.65       430
+           l       0.39      0.92      0.55       166
+           m       0.44      1.00      0.61        58
+           p       0.28      0.34      0.31       229
+           u       0.54      1.00      0.71        73
+           w       1.00      1.00      1.00        38
+
+    accuracy                           0.62      1624
+   macro avg       0.64      0.77      0.65      1624
+weighted avg       0.75      0.62      0.64      1624
+
+
+++++++++++++++++++++++++++++++++@++++++++++++++++++++++++++++
+

@@ -1,0 +1,68 @@
+ 
+ 
+ 				K-Means
+ 				
+ 				
+ 1. wine.data
+ 
+ Iteration:  12
+[Cluster: Number of Members]
+[[0, 28], [1, 24], [2, 39], [3, 20], [4, 40], [5, 24]]
+Final cluster visualization: 
+
+Total Time Elapsed (Sec) : 57.5846467070005
+			
+2. weather_madrid_LEMD_1997_2015.csv
+
+Iteration:  52
+[Cluster: Number of Members]
+[[0, 844], [1, 1173], [2, 659], [3, 1088], [4, 1243], [5, 1803]]
+Final cluster visualization: 
+
+Total Time Elapsed (Sec) : 69.08616139899823
+
+3. tripadvisor_review.csv
+
+Iteration:  14
+[Cluster: Number of Members]
+[[0, 141], [1, 151], [2, 78], [3, 193], [4, 154], [5, 261]]
+Final cluster visualization: 
+
+Total Time Elapsed (Sec) : 30.741423654995742
+
+
+4. google review ratings
+
+Iteration:  15
+[Cluster: Number of Members]
+[[0, 891], [1, 805], [2, 634], [3, 922], [4, 1486], [5, 716]]
+Final cluster visualization: 
+
+Total Time Elapsed (Sec) : 43.8314032759954
+
+
+5. credit card
+
+Iteration:  22
+[Cluster: Number of Members]
+[[0, 791], [1, 5315], [2, 62], [3, 2542], [4, 182], [5, 56]]
+Final cluster visualization: 
+
+Total Time Elapsed (Sec) : 48.87387714700162
+
+
+6. buddymove_holidayiq.csv
+
+
+
+
+
+				
+ 				
+ 				
+ 				
+ 				
+ 				
+ 				
+ 				
+ 				
